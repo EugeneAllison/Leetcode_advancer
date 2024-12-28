@@ -1,0 +1,19 @@
+Alt + Down / Up 两行互换
+Shift + Alt + Up 本行复制
+Ctrl + / 多行注释
+pass 暂且搁置
+ctrl + enter 直接换行***
+Ctrl + Shift + Enter	在当前行上插入新的一行
+删除当前行：shift + ctrl + k
+显示/隐藏左侧目录栏 ctrl + b
+行增加缩进: ctrl + [
+行减少缩进: ctrl + ]
+自动换行 : alt + z
+CTRL + L 选择整行
+删除行 ： ctrl + shift + k
+快速回到顶部 ： ctrl + home
+格式化选定代码 ：ctrl + k / ctrl +f
+全局替换：ctrl + shift + h
+选中文字：shift + left / right / up / down
+Ctrl + Shift + \	匹配花括号的闭合处，跳转
+Ctrl + up/down	行视图上下偏移
